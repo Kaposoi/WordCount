@@ -1,4 +1,4 @@
-# Install script for directory: D:/softwares/projects/rust/untitled2/src
+# Install script for directory: D:/softwares/projects/rust/WordCount/src
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)

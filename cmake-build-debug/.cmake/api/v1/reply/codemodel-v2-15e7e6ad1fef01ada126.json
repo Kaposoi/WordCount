@@ -112,8 +112,8 @@
 	"kind" : "codemodel",
 	"paths" : 
 	{
-		"build" : "D:/softwares/projects/rust/untitled2/cmake-build-debug",
-		"source" : "D:/softwares/projects/rust/untitled2"
+		"build" : "D:/softwares/projects/rust/WordCount/cmake-build-debug",
+		"source" : "D:/softwares/projects/rust/WordCount"
 	},
 	"version" : 
 	{

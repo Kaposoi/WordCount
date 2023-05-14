@@ -25,7 +25,7 @@ void test_count_words() {
     FILE *file = fopen("test_words.txt", "w");
     fprintf(file, "that just a best, choice\nyou think it??");
     fclose(file);
-    
+
     file = fopen("test_words.txt", "r");
     long word_count = 0;
     count_words(file, &word_count);

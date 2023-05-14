@@ -1,8 +1,8 @@
-D:/softwares/projects/rust/untitled2/cmake-build-debug/CMakeFiles/edit_cache.dir
-D:/softwares/projects/rust/untitled2/cmake-build-debug/CMakeFiles/rebuild_cache.dir
-D:/softwares/projects/rust/untitled2/cmake-build-debug/UnitTest/CMakeFiles/unit_test.dir
-D:/softwares/projects/rust/untitled2/cmake-build-debug/UnitTest/CMakeFiles/edit_cache.dir
-D:/softwares/projects/rust/untitled2/cmake-build-debug/UnitTest/CMakeFiles/rebuild_cache.dir
-D:/softwares/projects/rust/untitled2/cmake-build-debug/src/CMakeFiles/untitled2.dir
-D:/softwares/projects/rust/untitled2/cmake-build-debug/src/CMakeFiles/edit_cache.dir
-D:/softwares/projects/rust/untitled2/cmake-build-debug/src/CMakeFiles/rebuild_cache.dir
+D:/softwares/projects/rust/WordCount/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/softwares/projects/rust/WordCount/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+D:/softwares/projects/rust/WordCount/cmake-build-debug/UnitTest/CMakeFiles/unit_test.dir
+D:/softwares/projects/rust/WordCount/cmake-build-debug/UnitTest/CMakeFiles/edit_cache.dir
+D:/softwares/projects/rust/WordCount/cmake-build-debug/UnitTest/CMakeFiles/rebuild_cache.dir
+D:/softwares/projects/rust/WordCount/cmake-build-debug/src/CMakeFiles/untitled2.dir
+D:/softwares/projects/rust/WordCount/cmake-build-debug/src/CMakeFiles/edit_cache.dir
+D:/softwares/projects/rust/WordCount/cmake-build-debug/src/CMakeFiles/rebuild_cache.dir
